@@ -28,7 +28,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          ref: 19.07
+          ref: 21.02
 
       - name: Space cleanup
         env:
